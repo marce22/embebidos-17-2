@@ -1,0 +1,6 @@
+# INSTITUTO POLITÉCNICO NACIONAL
+## ESCUELA SUPERIOR DE CÓMPUTO
+
+## Practica 1.
+Rosas Cruz Erick Alejandro.
+
