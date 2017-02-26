@@ -19,3 +19,9 @@
 5. Revisar el enlace [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/).
 
 6. El reporte se debe subir a github el viernes 24 de febrero del 2017 a mas tardar a las 23:59:59.
+
+7. Hola, estoy divirtiéndome conn las ramas....!
+
+8. Texto en negritas: **Alejandra**
+
+9. Texto en italicas: *Alejandra*
