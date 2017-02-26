@@ -7,12 +7,6 @@ lab2/GarciaVictor/
 En esta carpeta deben:
 Colocar los arhivos siguientes:
 
-*muestreo.c*
-*archivos.c*
-*procesamiento.c*
-*defs.h*
-*procesamiento.h*
-*archivos.h*
-*Makefile*
+*muestreo.c*, *archivos.c*, *procesamiento.c*, *defs.h*, *procesamiento.h*, *archivos.h*, *Makefile*
 
 El archivo Makefile debe contener el uso de Wildcards
